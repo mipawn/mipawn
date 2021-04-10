@@ -1,6 +1,10 @@
-### Hi there 👋
+### welcome to my home 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+<br />
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=mipawn)]()
+
+
 <!--
 **mipawn/mipawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
